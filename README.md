@@ -2,7 +2,7 @@
 
 This is a small Java backend application (though the specifics of what the application does aren't the focus). The main emphasis of this project is to demonstrate how various DevOps tools and technologies can be utilized to automate infrastructure provisioning, continuous integration, and deployment pipelines.
 
-The project was built as part of a DevOps learning process, focusing on setting up a full CI/CD pipeline with key DevOps practices.
+The project was built as part of a DevOps learning process.
 
 ## Tools and Technologies Used:
 This project makes extensive use of popular DevOps tools and practices. Below is a breakdown of the key tools used:
